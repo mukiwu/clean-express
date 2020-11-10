@@ -2,6 +2,8 @@
 
 使用 Express Generator 產生的 Express Clean 專案資料夾，供每次開發使用。
 
+部落格介紹：https://muki.tw/tech/express-nodemon-app/
+
 ## 用到的設定
 
 * 樣板引擎：ejs
